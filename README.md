@@ -1,4 +1,4 @@
-# DeepSeek-R1 Document Q&A System [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+# DeepSeek-R1 Document Q&A System
 
 Welcome to the DeepSeek-R1 Document Q&A System! This project leverages Retrieval-Augmented Generation (RAG) techniques to enable efficient question-answering from PDF documents using the DeepSeek-R1 model.
 
@@ -12,10 +12,6 @@ The DeepSeek-R1 Document Q&A System is designed to process PDF documents and pro
 - **Interactive Q&A Interface**: Pose questions related to the uploaded documents and receive detailed answers.
 - **Streamlit Integration**: User-friendly web interface built with Streamlit for seamless interaction.
 - **Custom API Key Configuration**: Easily input your own API key through the Streamlit sidebar for personalized usage.
-
-## Live Demo
-
-Experience the application firsthand through our publicly deployed version: [DeepSeek-R1 Document Q&A System Live Demo]()
 
 ## How to Use
 
@@ -54,10 +50,6 @@ Experience the application firsthand through our publicly deployed version: [Dee
 ## Contributing
 
 We welcome contributions to enhance this project. Feel free to fork the repository, make improvements, and submit pull requests. Please ensure adherence to the project's coding standards and include appropriate tests for new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
