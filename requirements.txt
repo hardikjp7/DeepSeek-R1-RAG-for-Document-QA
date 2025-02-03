@@ -1,0 +1,10 @@
+langchain-community==0.3.16
+langchain==0.3.16
+langchain-huggingface==0.1.2
+langchain-text-splitters==0.3.5
+unstructured==0.16.16
+unstructured[pdf]==0.16.16
+langchain-unstructured==0.1.6
+langchain-chroma==0.2.1
+langchain-groq==0.2.3
+streamlit==1.41.1
