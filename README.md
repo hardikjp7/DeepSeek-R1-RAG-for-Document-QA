@@ -6,7 +6,7 @@ Welcome to the DeepSeek-R1 Document Q&A System! This project leverages Retrieval
 
 The DeepSeek-R1 Document Q&A System is designed to process PDF documents and provide accurate answers to user queries based on the content of these documents. By combining document retrieval with the generative capabilities of the DeepSeek-R1 model, this system offers precise and contextually relevant responses.
 
-<img src="./screenshot.png" alt="Project Screenshot" width="100%"/>
+<img src="img.png" alt="Project Screenshot" width="100%"/>
 
 ## Features
 
