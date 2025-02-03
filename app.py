@@ -7,6 +7,9 @@ working_dir = os.getcwd()
 
 st.title("🐋 DeepSeek-R1 - Document RAG")
 
+# Add small text below the header
+st.markdown("Made by 😎 [Hardik](https://www.linkedin.com/in/hardikjp/)")
+
 # Sidebar for API key input
 st.sidebar.header("API Configuration")
 api_key = st.sidebar.text_input("Enter your API key", type="password")
